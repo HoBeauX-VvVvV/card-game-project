@@ -5,6 +5,10 @@ body {
   align-items: center;
   justify-content: center;
   height: 50vmax;
+  background-image: url("https://images.unsplash.com/photo-1716157437418-99aadac5283e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDI3fGlVSXNuVnRqQjBZfHxlbnwwfHx8fHw%3D");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
 }
 
 .container {
@@ -31,7 +35,8 @@ body {
   padding: .8rem;
   border-radius: 5px;
   color: white;
-  background-color: #202d7a;
+  background-color:darkorange;
   font-weight: bold;
   border: 2px solid #202d7a;
 }
+
